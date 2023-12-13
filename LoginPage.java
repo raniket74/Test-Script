@@ -27,8 +27,8 @@ public class LoginPage extends TestSetup{
 
 		try {
 			Thread.sleep(1500);
-			email.sendKeys("aniket.raj@twirll.com");
-			pwd.sendKeys("welcome1");
+			email.sendKeys("abc@abc.com");
+			pwd.sendKeys("xxxxxx");
 			submt.click();
 			
 		} catch (Exception e) {
